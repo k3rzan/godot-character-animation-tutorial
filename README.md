@@ -1,6 +1,6 @@
 # Tutorial de Como crear un Personaje y Animarlo en Godot
 
-Proyecto usado para el tutorial [Como crear y Animar un personaje en Godot | Tutorial de Godot 4]() con todos los assets usados en el tutorial pero no todos los del asset pack de donde provienen (link mas abajo).
+Proyecto usado para el tutorial [Como crear y Animar un personaje en Godot | Tutorial de Godot 4](https://www.youtube.com/watch?v=Cat8kEacPH0) con todos los assets usados en el tutorial pero no todos los del asset pack de donde provienen (link mas abajo).
 
 ## Asset Pack Completo
 
